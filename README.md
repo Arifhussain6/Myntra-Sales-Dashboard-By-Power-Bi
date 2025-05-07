@@ -1,5 +1,5 @@
 # Myntra-Sales-Dashboard-By-Power-Bi
-Displaying the Sales Performance of Myntra on different Brandings using different Visualizations using Power Bi
+Displaying the Sales Performance of Myntra on different Brandings by different Visualizations using Power Bi
 Tools Using for Creating This Project
 Power BI(Power Query,Power Pivot,Power View,DAX)
 Power Query to Transform and Cleaning the Data.
